@@ -1,0 +1,11 @@
+C:\Users\André\source\repos\Aula5\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\André\source\repos\Aula5\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\André\source\repos\Aula5\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\André\source\repos\Aula5\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\André\source\repos\Aula5\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\André\source\repos\Aula5\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\projetos\logatti\csharp\Aula5\Biblioteca\bin\Debug\Biblioteca.dll
+C:\projetos\logatti\csharp\Aula5\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\projetos\logatti\csharp\Aula5\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\projetos\logatti\csharp\Aula5\Biblioteca\obj\Debug\Biblioteca.dll
+C:\projetos\logatti\csharp\Aula5\Biblioteca\obj\Debug\Biblioteca.pdb
